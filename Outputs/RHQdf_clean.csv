@@ -1,0 +1,225 @@
+...1,prescreendate,email,first_period,cycle_regular_lifetime,currently_menstruating,period_last_month,period_last_year,cycle_regular_now,irregular_duration,irregular_bleed_length_change,amenorrhea_any,amenorrhea_duration,menopause_symptoms_ever,menopause_symptoms_start_age,menopause_symptoms_end_age,ever_pregnant,pregnancy_count,pregnancy_6months_ever,pregnancy_6months_count,live_birth_count,prenatal_depression,postpartum_depression,postpartum_psychosis,breastfed_any,breastfed_child_count,breastfeeding_total_months,ovary_removal,ovary_removal_age,tubal_ligation,tubal_ligation_age,breast_cancer_dx,ovarian_uterine_cancer_dx,birthcontrol_current,birthcontrol_ever,birthcontrol_current_type,bc_pill_ever,bc_patch_ever,bc_ring_ever,bc_implant_ever,bc_injection_ever,bc_iud_ever,bc_other_ever,hormone_med_current,hormone_med_current_type,hormone_med_ever,hormone_med_ever_details,DataCollection
+1,2023-05-08,sughi1979@yahoo.com,13,NA,NA,yes,yes,irregular,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+2,2023-05-17,chrisannpolino@yahoo.com,10,NA,NA,no,no,irregular,5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+3,2023-05-17,feliceraucci1@gmail.com,12,NA,NA,NA,yes,regular,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+4,2023-05-17,jesali35@yahoo.com,9,NA,NA,NA,no,irregular,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+5,2023-05-17,Anangelwalkedin@aol.com,13,NA,NA,yes,yes,irregular,6,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+6,2023-05-18,Limajen1218@gmail.com,13,NA,NA,yes,yes,irregular,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+7,2023-05-23,sarahornith@yahoo.com,13,NA,NA,no,yes,irregular,6,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+8,2023-05-23,stephaniejanssens75@gmail.com,13,NA,NA,no,yes,irregular,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,NA,yes,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+9,2023-05-23,oderheather@gmail.com,13,NA,NA,yes,yes,irregular,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,NA,3,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+10,2023-05-23,nycskw@gmail.com,14,regular,yes,yes,NA,irregular,6,3,no,NA,yes,46,53,yes,6,yes,4,4,no,no,NA,yes,4,5,no,NA,no,NA,no,no,no,no,NA,1,0,0,0,0,0,0,yes,Estrogen and testerone,no,NA,old
+11,2023-05-23,steveslbclb@aol.com,15,NA,NA,no,no,irregular,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+12,2023-05-24,Carietonovitz@rocketmail.com,13,regular,yes,yes,yes,irregular,1,3,no,NA,yes,47,48,yes,2,yes,2,2,NA,no,NA,yes,2,6,no,NA,no,NA,NA,NA,no,no,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+13,2023-05-25,RLF@AYA.YALE.EDU,14,NA,NA,yes,yes,irregular,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+14,2023-05-25,jjeannie20@gmail.com,11,NA,NA,yes,yes,irregular,2,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+15,2023-05-31,Jnc.urena@hotmail.com,11,NA,NA,yes,yes,irregular,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+16,2023-05-31,Cruth7749@gmail.com,12,NA,NA,no,no,irregular,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+17,2023-06-26,Dawnesname41@gmail.com,15,NA,NA,no,yes,irregular,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+18,2023-06-28,Titina76@juno.com,14,regular,yes,yes,yes,irregular,6,NA,no,NA,yes,45,46,no,NA,NA,NA,NA,NA,no,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,no,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+19,2023-06-30,Pattymv@yahoo.com,13,NA,NA,no,yes,irregular,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+20,2023-07-12,Stasirocio@gmail.com,14,NA,NA,yes,yes,irregular,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+21,2023-07-14,Getitfastdelivery@gmail.com,14,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+22,2023-07-16,amyficke@gmail.com,11,both,NA,NA,no,NA,NA,NA,yes,4,yes,47,54,yes,3,yes,2,2,no,no,NA,yes,2,4,no,NA,no,NA,NA,NA,yes,yes,3,1,0,1,0,0,0,0,NA,NA,NA,NA,old
+23,2023-07-18,Loree.armstrong@gmail.com,15,NA,NA,yes,yes,irregular,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+24,2023-07-19,slarrandabure@gmail.com,15,NA,NA,yes,yes,irregular,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+25,2023-07-19,Rosangelluciano@yahoo.com,18,NA,NA,yes,yes,irregular,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+26,2023-07-21,amy.abulesky@gmail.com,11,NA,NA,yes,yes,irregular,6,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+27,2023-07-21,nikkilanora@aol.com,13,NA,NA,NA,no,regular,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+28,2023-07-30,jchester@aces.org,13,regular,yes,yes,yes,irregular,6,yes,no,NA,yes,47,NA,yes,2,yes,2,2,no,no,NA,yes,1,1,no,NA,yes,2,NA,NA,no,no,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+29,2023-08-07,tbarrigacarv@umass.edu,12,NA,NA,yes,yes,irregular,6,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+30,2023-08-10,Cheneeg@hotmail.com,9,NA,NA,yes,NA,irregular,1,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+31,2023-09-05,judith.barron.55@gmail.com,13,NA,NA,no,yes,irregular,4,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+32,2023-09-16,yafaah37@gmail.com,13,NA,NA,no,yes,irregular,6,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+33,2023-10-02,Roxann.Childs.rn@gmail.com,10,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+34,2023-10-08,lekkar007@gmail.com,10,NA,NA,yes,yes,irregular,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+35,2023-10-08,daria822@att.net,11,irregular,no,no,yes,irregular,4,NA,yes,4,yes,49,51,yes,3,yes,3,3,no,no,NA,yes,3,5,no,NA,no,NA,NA,NA,no,yes,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+36,2023-10-25,newyear4846@gmail.com,12,NA,NA,yes,yes,irregular,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+37,2023-10-31,Lauraanncallaway@gmail.com,14,NA,NA,NA,no,irregular,NA,NA,NA,NA,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+38,2023-11-11,Annycr2006@gmail.com,9,NA,NA,no,yes,irregular,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+39,2024-01-20,triekakelly418@gmail.com,15,NA,NA,no,no,irregular,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+40,2024-01-28,Debbiepino@gmail.com,11,both,NA,yes,NA,irregular,2,3,yes,4,yes,NA,48,yes,4,yes,3,3,no,yes,NA,yes,3,5,no,NA,no,NA,NA,NA,no,yes,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+41,2024-01-27,laewaforrest@icloud.com,12,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+42,2024-02-06,Straykat1269@gmail.com,8,NA,NA,no,yes,irregular,4,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+43,2024-02-12,shelbysue8210@gmail.com,12,regular,yes,yes,yes,irregular,1,NA,yes,1,yes,NA,NA,yes,4,no,NA,3,NA,yes,NA,no,NA,NA,no,NA,yes,1,NA,NA,no,yes,NA,0,0,1,0,0,0,0,NA,NA,NA,NA,old
+44,2024-02-13,leahharris10@gmail.com,12,both,NA,NA,NA,irregular,2,NA,yes,4,yes,46,47,yes,1,yes,1,1,NA,yes,NA,yes,1,3,no,NA,no,NA,NA,NA,no,yes,NA,1,0,1,0,0,0,0,NA,NA,NA,NA,old
+45,2024-02-21,Erika.longstreth@gmail.com,9,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+46,2024-02-28,S.e.saunders@gmail.com,16,regular,yes,NA,NA,irregular,5,3,no,NA,yes,38,40,yes,2,yes,2,2,NA,no,NA,yes,2,6,no,NA,no,NA,NA,NA,no,no,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+47,2024-03-06,michelledao@me.com,12,irregular,no,NA,NA,regular,NA,NA,no,NA,yes,41,45,yes,NA,yes,2,2,NA,yes,NA,yes,2,6,no,NA,no,NA,NA,NA,no,no,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+48,2024-03-06,inajj@hotmail.com,11,regular,yes,no,yes,irregular,2,NA,yes,1,yes,52,52,yes,3,no,NA,2,NA,no,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,yes,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+49,2024-03-06,pellegrinojaime@gmail.com,12,irregular,no,yes,yes,irregular,6,NA,yes,3,yes,40,41,yes,7,yes,6,7,NA,no,NA,no,NA,NA,no,NA,yes,1,NA,NA,yes,yes,yes,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+50,2024-03-12,junereedy@gmail.com,16,regular,yes,NA,NA,irregular,2,yes,no,NA,yes,44,44,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,no,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+51,2024-03-15,jennifer_laprad@icloud.com,14,regular,yes,NA,no,NA,NA,NA,no,NA,yes,50,51,yes,5,yes,3,3,NA,no,NA,yes,3,6,no,NA,no,NA,NA,NA,no,no,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+52,2024-03-23,jsawick121@gmail.com,12,regular,yes,yes,NA,irregular,6,yes,no,NA,yes,43,45,yes,1,yes,1,1,NA,no,NA,yes,1,3,no,NA,no,NA,NA,NA,no,no,NA,1,0,1,0,0,0,0,NA,NA,NA,NA,old
+53,2024-03-24,bouji3@gmail.com,13,regular,yes,yes,yes,irregular,6,3,no,NA,yes,46,48,yes,4,yes,2,1,NA,yes,NA,yes,1,5,no,NA,no,NA,NA,NA,no,no,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+54,2024-03-25,pettwaydiane@gmail.com,11,regular,yes,NA,no,NA,NA,NA,no,NA,yes,43,49,yes,NA,yes,NA,2,NA,no,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,no,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+55,2024-03-26,marionholt8@gmail.com,13.5,irregular,no,NA,NA,regular,NA,NA,no,NA,yes,43,NA,yes,1,no,NA,0,NA,no,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,no,NA,1,0,0,0,0,0,1,NA,NA,NA,NA,old
+56,2024-03-27,arboec2727@gmail.com,13,both,NA,NA,NA,NA,NA,NA,no,NA,yes,51,54,yes,3,yes,2,2,NA,yes,NA,yes,2,3,no,NA,yes,1,NA,NA,no,no,NA,1,0,0,0,0,0,1,NA,NA,NA,NA,old
+57,2024-03-30,Agorrio@gmail.com,19,both,NA,NA,NA,irregular,4,NA,yes,1,no,NA,NA,yes,2,yes,2,2,NA,no,NA,yes,2,4,no,NA,no,NA,NA,NA,no,yes,NA,1,0,1,0,1,0,0,NA,NA,NA,NA,old
+58,2024-03-30,slozada1115@gmail.com,9,irregular,no,NA,NA,NA,NA,NA,yes,4,yes,40,42,yes,4,yes,3,3,NA,no,NA,yes,1,1,no,NA,no,NA,NA,NA,no,yes,NA,1,0,1,0,1,0,0,NA,NA,NA,NA,old
+59,2024-04-01,Celestineschwenneker@gmail.com,9,regular,yes,NA,NA,irregular,NA,NA,no,NA,yes,50,52,yes,6,yes,2,2,NA,yes,NA,yes,2,5,no,NA,no,NA,NA,NA,yes,no,3,1,0,1,1,0,0,0,NA,NA,NA,NA,old
+60,2024-04-04,azieher@zoho.com,13,regular,yes,NA,NA,irregular,1,3,no,NA,yes,45,48,yes,3,yes,3,3,no,yes,NA,yes,4,6,no,NA,no,NA,no,no,no,no,NA,1,0,0,0,0,0,0,yes,estrogen,no,NA,old
+61,2024-04-06,isabellegasser@hotmail.com,14,regular,yes,NA,NA,irregular,4,yes,yes,1,yes,51,51,yes,2,yes,2,2,NA,no,NA,yes,2,3,no,NA,no,NA,NA,NA,no,yes,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+62,2024-04-10,sharonjsyou@gmail.com,13,regular,yes,NA,NA,irregular,1,3,no,NA,yes,47,49,yes,3,yes,1,1,NA,yes,NA,yes,1,1,yes,2,no,NA,NA,NA,yes,no,yes,0,0,1,0,0,0,0,NA,NA,NA,NA,old
+63,2024-04-11,wolfangel830123@gmail.com,13,regular,yes,yes,NA,regular,NA,NA,no,NA,no,NA,NA,yes,3,yes,3,3,yes,yes,no,yes,3,5,no,NA,yes,1,no,no,no,no,NA,1,0,0,0,0,0,0,no,NA,no,NA,old
+64,2024-04-12,supanovakore80@pm.me,13,irregular,no,NA,yes,irregular,6,3,no,NA,yes,40,43,yes,2,yes,2,2,yes,yes,NA,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,1,0,no,NA,no,NA,old
+65,2024-04-13,jessiekaypellegrino77@gmail.com,12,regular,yes,NA,NA,NA,NA,NA,no,NA,yes,37,NA,yes,8,yes,7,7,NA,no,NA,yes,5,6,no,NA,no,NA,NA,NA,no,no,NA,1,0,0,1,0,0,0,NA,NA,NA,NA,old
+66,2024-04-15,brookedwyer0479@gmail.com,13,regular,yes,NA,NA,irregular,6,3,yes,2,yes,42,44,yes,4,no,NA,0,NA,no,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,yes,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+67,2024-04-16,ksenialatvia@gmail.com,10,regular,yes,NA,NA,irregular,6,yes,yes,1,yes,48,51,yes,3,no,NA,0,NA,no,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,yes,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+68,2024-04-30,andreaaheld@gmail.com,9,irregular,no,NA,NA,NA,NA,NA,yes,1,yes,40,50,yes,4,yes,3,3,NA,yes,NA,yes,2,4,no,NA,no,NA,NA,NA,no,yes,NA,1,0,0,1,0,0,0,NA,NA,NA,NA,old
+69,2024-05-01,Ndoniere@yahoo.com,13,regular,yes,NA,NA,irregular,6,3,yes,4,yes,39,44,yes,3,yes,2,2,NA,no,NA,yes,2,4,no,NA,no,NA,NA,NA,no,yes,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+70,2024-05-24,nichelle102023@gmail.com,10,irregular,no,NA,no,irregular,4,NA,yes,4,yes,43,54,yes,3,no,NA,0,yes,no,yes,no,NA,NA,yes,1,no,NA,no,no,no,yes,NA,1,1,0,1,0,0,0,no,NA,no,NA,old
+71,2024-05-23,Truckergirl777@gmail.com,13,both,NA,NA,no,irregular,6,3,yes,1,no,NA,NA,yes,3,yes,2,2,no,no,no,no,NA,NA,no,NA,no,NA,no,no,yes,yes,3,1,0,1,0,0,0,1,no,NA,no,NA,old
+72,2024-05-24,avellarmor621@yahoo.com,12,regular,yes,NA,no,irregular,6,4,yes,2,yes,38,54,yes,5,yes,3,3,no,no,no,no,NA,NA,no,NA,yes,1,no,no,no,yes,NA,1,0,0,1,0,0,0,no,NA,no,NA,old
+73,2024-05-31,roachml87@gmail.com,12,both,NA,NA,NA,NA,NA,NA,no,NA,yes,47,54,yes,2,no,NA,0,NA,no,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,no,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+74,2024-06-03,altrautman@hotmail.com,11,irregular,no,NA,NA,irregular,6,3,yes,2,no,NA,NA,yes,1,yes,1,1,NA,no,NA,yes,1,1,NA,6,no,NA,NA,NA,no,yes,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+75,2024-06-04,brendam_watson@hotmail.com,11,regular,yes,NA,NA,irregular,6,3,no,NA,yes,48,51,yes,3,yes,2,2,NA,yes,no,yes,2,1,no,NA,no,NA,no,no,no,no,NA,1,0,0,0,0,0,0,no,NA,no,NA,old
+76,2024-06-08,pawsnpedi@gmail.com,41,regular,yes,NA,no,regular,NA,NA,yes,1,no,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,yes,yes,3,0,0,0,0,0,0,0,no,NA,no,NA,old
+77,2024-06-14,sebaer@comcast.net,14,regular,yes,NA,NA,NA,NA,NA,no,NA,yes,50,56,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,no,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+78,2024-06-20,Tamara.mack1230@gmail.com,16,regular,yes,no,yes,regular,NA,NA,NA,NA,yes,47,47,yes,2,yes,2,2,no,no,no,no,NA,NA,no,NA,no,NA,no,no,no,NA,NA,0,0,0,0,0,0,0,no,NA,no,NA,old
+79,2024-06-20,milkwhiterose@hotmail.com,12,regular,yes,no,yes,irregular,2,NA,no,NA,yes,48,48,yes,1,no,NA,0,NA,no,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,no,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+80,2024-06-23,msmariadelsol@gmail.com,12,irregular,no,NA,no,NA,NA,NA,yes,3,yes,51,55,yes,4,yes,1,1,NA,no,NA,yes,1,2,no,NA,no,NA,NA,NA,no,yes,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+81,2024-06-24,Nkt129@gmail.com,54,regular,yes,NA,yes,irregular,6,NA,no,NA,yes,53,53,yes,5,yes,3,4,yes,yes,no,yes,1,1,no,NA,no,NA,no,no,no,no,NA,1,0,0,0,0,0,0,no,NA,no,NA,old
+82,2024-06-27,rachelaphart@gmail.com,13,regular,yes,NA,NA,NA,NA,NA,yes,4,yes,42,48,yes,2,yes,2,2,NA,no,NA,no,NA,NA,NA,4,no,NA,NA,NA,no,yes,NA,1,0,1,0,0,0,0,NA,NA,NA,NA,old
+83,2024-07-01,Devineomalley@gmail.com,12,regular,yes,NA,no,regular,NA,NA,yes,2,no,NA,NA,yes,2,yes,2,2,no,no,no,yes,2,2,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,old
+84,2024-07-03,Georgiawingblade@gmail.com,13,regular,yes,yes,NA,irregular,4,3,no,NA,yes,49,52,yes,5,yes,3,3,yes,no,no,yes,3,2,no,NA,yes,3,no,no,no,no,NA,0,1,0,0,0,0,0,no,NA,no,NA,old
+85,2024-07-06,nkerr6728@gmail.com,11,both,NA,no,yes,irregular,5,NA,yes,4,yes,44,46,yes,8,yes,4,4,no,no,no,no,NA,NA,no,NA,yes,1,no,no,no,yes,NA,0,0,0,0,0,0,0,no,NA,no,NA,old
+86,2024-07-07,7empoole@gmail.com,11,regular,yes,NA,yes,regular,NA,NA,yes,3,yes,46,49,yes,1,no,NA,0,yes,no,no,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,0,0,1,0,0,0,no,NA,no,NA,old
+87,2024-07-10,bmarianne22@yahoo.com,12,regular,yes,yes,yes,irregular,6,NA,no,NA,yes,44,45,yes,4,yes,3,3,NA,yes,NA,yes,3,1,no,NA,yes,3,NA,NA,no,no,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+88,2024-07-11,jasminehomer@hotmail.com,13,both,NA,NA,no,irregular,6,NA,no,NA,yes,43,43,yes,4,yes,2,0,no,no,yes,no,NA,NA,no,NA,no,NA,no,no,yes,no,NA,0,1,1,1,0,0,0,no,NA,no,NA,old
+89,2024-07-14,Kellybrush53@gmail.com,12,regular,yes,NA,NA,NA,NA,NA,yes,2,yes,48,52,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,yes,NA,1,0,1,0,0,0,0,NA,NA,NA,NA,old
+90,2024-07-15,Corinne.walter@gmail.com,13,regular,yes,yes,NA,irregular,5,NA,no,NA,yes,45,50,yes,2,yes,2,2,no,yes,no,yes,2,4,no,NA,no,NA,no,no,no,no,NA,1,0,0,0,0,0,0,no,NA,no,NA,old
+91,2024-07-15,pearlcullen53@gmail.com,16,regular,yes,NA,NA,irregular,4,3,yes,3,yes,48,49,yes,4,yes,1,1,no,no,no,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,0,0,1,0,0,0,yes,NA,yes,"Methoxyprogesterone started November 2023 - July 2024, just restarted 2 weeks ago",old
+92,2024-07-17,Grandrapids3@aol.com,14,regular,yes,NA,yes,irregular,3,NA,no,NA,yes,51,52,yes,4,yes,4,4,no,no,no,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,old
+93,2024-07-22,Sincereone0@gmail.com,12,regular,yes,NA,no,irregular,6,NA,no,NA,yes,42,45,yes,1,no,NA,1,no,no,NA,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,old
+94,2024-07-31,Rissp@hotmail.com,12,regular,yes,yes,NA,irregular,5,3,no,NA,yes,46,48,yes,2,yes,2,2,no,no,no,yes,2,4,no,NA,no,NA,no,no,no,no,NA,1,0,0,0,0,0,0,no,NA,no,NA,old
+95,2024-08-06,Bluertjlp@aol.com,13,both,NA,no,yes,irregular,3,NA,yes,1,yes,42,48,yes,2,yes,2,2,no,no,NA,yes,2,5,no,NA,yes,3,no,no,no,yes,NA,1,0,1,0,0,0,0,yes,"HRT patch, estrodial, .05mg,    progesterone, 100mg",no,NA,old
+96,2024-08-06,hopesdreams13@gmail.com,11,regular,yes,NA,yes,irregular,6,NA,no,NA,yes,45,48,yes,3,yes,3,3,no,yes,no,yes,3,5,no,NA,no,NA,no,no,no,no,NA,1,0,0,0,0,0,0,no,NA,NA,NA,old
+97,2024-08-11,jehn626@gmail.com,12,regular,yes,yes,NA,irregular,4,3,no,NA,yes,42,43,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,1,0,0,0,0,0,0,no,NA,no,NA,old
+98,2024-08-15,blueeyez1383@gmail.com,8,both,NA,yes,NA,regular,NA,NA,yes,1,yes,41,41,yes,6,yes,4,3,no,yes,yes,yes,2,1,no,NA,no,NA,no,no,no,yes,NA,1,0,1,0,0,0,0,no,NA,no,NA,old
+99,2024-09-10,Yobees621@gmail.com,13,regular,yes,NA,yes,irregular,6,3,no,NA,yes,40,51,yes,4,yes,4,4,no,yes,yes,yes,1,NA,no,NA,NA,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,old
+100,2024-09-15,Nena83sx@gmail.com,16,regular,yes,yes,NA,regular,NA,NA,no,NA,no,NA,NA,yes,8,yes,8,8,no,yes,yes,yes,4,3,no,NA,yes,3,no,no,no,no,NA,1,0,0,1,1,0,0,no,NA,no,NA,old
+101,2024-09-24,Amy.blumenreder@gmail.com,12,regular,yes,yes,NA,regular,NA,NA,no,NA,no,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,1,0,0,0,0,0,0,no,NA,no,NA,old
+102,2024-09-25,rev.lauradodge@gmail.com,12,regular,yes,yes,NA,irregular,3,NA,yes,1,yes,44,45,yes,1,no,NA,1,no,no,no,yes,1,2,no,NA,no,NA,no,no,no,yes,NA,1,0,0,1,0,0,0,no,NA,no,NA,old
+103,2024-09-28,Jaimeannnovember@gmail.com,13,regular,yes,NA,yes,irregular,6,NA,no,NA,yes,48,48,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,yes,no,3,0,0,1,0,0,0,0,no,NA,no,NA,old
+104,2024-09-28,Lisa_belgrove@yahoo.com,14,regular,yes,NA,no,irregular,6,NA,no,NA,yes,47,54,yes,2,yes,2,2,yes,no,no,yes,2,2,no,NA,no,NA,yes,no,no,no,NA,1,0,1,0,0,0,0,no,NA,no,NA,old
+105,2024-09-28,jessicabrookstein@msn.com,13,regular,yes,NA,yes,regular,NA,NA,no,NA,yes,49,50,yes,1,yes,1,1,no,no,no,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,1,0,0,0,0,0,0,no,NA,no,NA,old
+106,2024-09-30,Nesihak@hotmail.com,12,regular,yes,NA,no,regular,NA,NA,no,NA,no,NA,NA,yes,2,yes,2,2,no,no,no,yes,2,2,no,NA,no,NA,NA,no,no,no,NA,1,0,1,0,0,0,0,no,NA,no,NA,old
+107,2024-09-30,hawilliams11@yahoo.com,12,regular,yes,NA,no,regular,NA,NA,no,NA,yes,50,53,yes,2,yes,NA,1,no,no,no,yes,NA,4,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,NA,NA,old
+108,2024-10-02,donnacook72@gmail.com,11,regular,yes,yes,NA,regular,NA,NA,no,NA,yes,49,52,yes,5,yes,2,2,no,yes,no,yes,2,6,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,old
+109,2024-10-09,stefanieg2024@gmail.com,13,both,NA,NA,no,irregular,6,yes,no,NA,yes,35,40,yes,2,yes,2,2,no,yes,no,no,NA,NA,no,NA,yes,1,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,old
+110,2024-10-13,Fivemakesseven@gmail.com,13,regular,yes,NA,no,irregular,6,yes,no,NA,yes,46,54,yes,8,yes,5,5,no,no,no,yes,5,6,no,NA,no,NA,no,no,no,no,NA,1,0,1,0,0,0,0,yes,Estradiol patch,no,NA,old
+111,2024-10-13,jbutler4374@yahoo.com,12,irregular,no,no,yes,irregular,3,3,no,NA,yes,46,50,yes,2,yes,2,2,no,no,no,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,1,0,1,1,0,0,0,no,NA,no,NA,old
+112,2024-10-16,cadukes74@gmail.com,10,both,NA,no,yes,irregular,6,yes,no,NA,yes,48,50,yes,3,yes,2,2,no,no,no,yes,2,6,no,NA,no,NA,no,no,no,no,NA,1,0,1,1,0,0,0,no,NA,no,NA,old
+113,2024-10-17,Miki.chojnacka@gmail.com,14,irregular,no,yes,NA,irregular,5,NA,no,NA,yes,46,48,yes,2,yes,1,1,no,yes,no,yes,1,1,no,NA,no,NA,no,no,no,no,NA,1,0,1,0,0,0,0,no,NA,no,NA,old
+114,2024-10-20,christina.creevy@gmail.com,11,irregular,no,NA,no,irregular,6,4,yes,1,yes,52,54,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,6,no,NA,no,yes,no,yes,NA,0,0,0,0,0,0,0,no,NA,no,NA,old
+115,2024-10-26,Maria.Santiago5@yahoo.com,15,irregular,no,no,yes,irregular,6,yes,no,NA,yes,45,46,yes,3,yes,3,3,no,yes,no,no,NA,NA,no,NA,no,NA,no,NA,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,old
+116,2024-10-31,nursemjd73@gmail.com,13,irregular,no,yes,NA,irregular,1,yes,no,NA,yes,51,51,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,1,0,0,0,0,0,0,no,NA,no,NA,old
+117,2024-11-01,Sharon.eileen@yahoo.com,12,regular,yes,yes,NA,regular,NA,NA,no,NA,yes,40,42,yes,2,yes,2,2,no,no,no,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,old
+118,2024-11-03,rania.melikokis@gmail.com,11,irregular,no,NA,no,irregular,6,4,no,NA,yes,52,54,yes,3,yes,1,1,no,no,no,yes,1,5,no,NA,no,NA,no,no,no,no,NA,1,0,0,0,0,0,0,yes,"HRT, estradiol patch .05mg/day 2x/week  Progesteron pills 2.5 mg",no,NA,old
+119,2024-11-03,hilda.ramirez@gmail.com,12,regular,yes,yes,NA,regular,NA,NA,yes,3,yes,47,49,yes,4,yes,2,2,no,yes,no,yes,2,5,no,NA,no,NA,no,no,yes,yes,yes,1,0,1,0,0,0,0,no,NA,no,NA,old
+120,2024-11-11,Sistahjah1@gmail.com,13,regular,yes,NA,no,regular,NA,NA,yes,1,yes,42,50,yes,3,yes,2,2,no,no,no,yes,1,5,no,NA,yes,5,no,no,no,yes,NA,0,1,1,0,0,0,0,no,NA,no,NA,old
+121,2023-05-23,Kate.gelineau@gmail.com,13,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+122,2023-05-23,robynschwartz95@gmail.com,12,NA,NA,no,yes,irregular,6,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+123,2023-06-07,Whitediamonds900@yahoo.com,11,regular,yes,no,yes,irregular,3,NA,yes,1,yes,40,45,yes,1,no,NA,NA,NA,no,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,yes,NA,0,1,0,0,0,0,0,NA,NA,NA,NA,old
+124,2023-10-14,Shawnandshawng@gmail.com,9,both,NA,NA,no,NA,NA,NA,yes,4,yes,44,56,yes,4,yes,2,3,NA,yes,NA,yes,2,2,no,NA,no,NA,NA,NA,no,yes,NA,1,0,1,0,0,0,0,NA,NA,NA,NA,old
+125,2023-12-18,Chrismpaquin@yahoo.com,11,NA,NA,yes,yes,irregular,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+126,2023-11-15,Fatimaescano@gmail.com,9,regular,yes,yes,yes,regular,NA,NA,no,NA,no,NA,NA,yes,3,yes,2,2,NA,no,NA,yes,2,4,no,NA,no,NA,NA,NA,no,no,NA,1,0,1,0,0,0,0,NA,NA,NA,NA,old
+127,2023-11-23,blatricia740@gmail.com,11,regular,yes,NA,NA,NA,NA,NA,no,NA,yes,NA,NA,yes,4,yes,4,3,NA,no,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,no,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+128,2024-02-25,doloreb1970@icloud.com,9,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+129,2024-03-22,kristenolechnowich@gmail.com,12,regular,yes,NA,NA,NA,NA,NA,yes,4,yes,40,NA,yes,1,yes,1,1,NA,no,NA,yes,1,1,no,NA,no,NA,NA,NA,no,yes,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+130,2024-03-24,heathermacdonald049@gmail.com,13,regular,yes,NA,no,NA,NA,NA,no,NA,no,NA,NA,yes,4,no,NA,0,NA,no,NA,no,NA,NA,no,NA,no,NA,NA,NA,yes,no,3,1,1,1,0,0,0,0,NA,NA,NA,NA,old
+131,2024-03-28,scarlettdeveraux@live.com,11,both,NA,NA,no,NA,NA,NA,yes,1,yes,51,54,yes,4,yes,3,3,NA,no,NA,yes,2,3,no,NA,yes,4,NA,NA,no,yes,NA,1,0,0,0,1,0,1,NA,NA,NA,NA,old
+132,2024-04-09,marykantonelli@gmail.com,15,irregular,no,NA,no,NA,NA,NA,no,NA,yes,44,50,yes,1,yes,1,1,NA,yes,NA,no,NA,NA,no,NA,yes,1,NA,NA,no,no,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+133,2024-04-17,km_photo_@hotmail.com,12,regular,yes,NA,no,NA,NA,NA,no,NA,no,NA,NA,yes,5,yes,3,3,NA,no,NA,yes,3,4,no,NA,no,NA,NA,NA,no,no,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+134,2024-05-04,suecq33@yahoo.ca,12,regular,yes,NA,yes,regular,NA,NA,yes,1,yes,45,46,yes,3,yes,1,1,NA,no,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,yes,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+135,2024-05-19,Andreaperry51@yahoo.com,13,regular,yes,NA,no,NA,NA,NA,yes,NA,yes,46,NA,yes,6,yes,3,3,NA,no,NA,no,NA,NA,no,NA,no,NA,NA,NA,no,yes,NA,1,0,0,0,0,0,0,NA,NA,NA,NA,old
+136,2024-07-31,ebilest@gmail.com,12,regular,yes,no,yes,irregular,6,yes,no,NA,yes,48,50,yes,2,yes,1,1,no,yes,no,yes,1,2,no,NA,no,NA,no,no,no,no,NA,1,0,0,0,0,1,0,no,NA,no,NA,old
+137,2024-05-15,Onsgirl71@gmail.com,14,regular,yes,NA,no,NA,NA,NA,no,NA,yes,51,53,yes,3,yes,2,2,NA,yes,NA,yes,2,5,no,NA,no,NA,NA,NA,no,no,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+138,2024-05-17,maria.sarvanski@gmail.com,13,regular,yes,no,yes,irregular,5,NA,no,NA,yes,48,56,yes,1,yes,1,1,NA,no,NA,yes,1,2,no,NA,no,NA,NA,NA,no,no,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,old
+139,20039,Suririveraco@gmail.com,11,regular,no,NA,no,NA,NA,NA,no,NA,yes,49,49,yes,3,yes,2,2,yes,yes,no,yes,2,2,yes,5,no,NA,no,no,no,yes,NA,1,0,1,0,0,0,0,no,NA,no,NA,new
+140,20046,jcm11278@gmail.com,16,both,yes,yes,NA,regular,NA,NA,yes,1,yes,44,46,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+141,20058,fusseus@yahoo.com,14,irregular,yes,yes,NA,regular,NA,NA,yes,2,yes,42,44,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+142,20061,refinodanielle@gmail.com,11,regular,yes,yes,NA,regular,NA,NA,yes,4,yes,46,46,yes,3,yes,3,3,no,no,no,yes,3,18,no,NA,yes,2,no,no,no,yes,NA,1,1,0,1,0,1,0,no,NA,no,NA,new
+143,20069,Skimstaf@aol.com,15,regular,no,NA,no,NA,NA,NA,no,NA,yes,53,56,yes,4,yes,3,3,yes,yes,no,yes,3,25,no,NA,no,NA,no,no,yes,yes,3,1,0,0,0,0,0,0,no,NA,no,NA,new
+144,20069,Jamieloehfelm@yahoo.com,12,regular,yes,yes,NA,regular,NA,NA,no,NA,yes,46,48,yes,8,yes,1,1,yes,yes,no,yes,1,25,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+145,20070,Joyceam.rp@gmail.com,10,regular,no,NA,no,NA,NA,NA,no,NA,yes,44,52,yes,2,no,NA,2,no,no,no,no,NA,NA,NA,4,no,NA,no,no,no,yes,NA,1,0,1,0,1,1,0,no,NA,NA,NA,new
+146,20074,enidcastellar11@gmail.com,16,irregular,no,NA,no,NA,NA,NA,no,NA,no,NA,NA,yes,8,yes,2,3,no,yes,yes,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,yes,levoxyl since 1992,new
+147,20074,bharashah@gmail.com,13,regular,no,NA,no,NA,NA,NA,no,NA,no,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,new
+148,20074,mrodriguez27@hotmail.com,11,regular,yes,yes,NA,regular,NA,NA,no,NA,yes,39,49,yes,6,no,1,1,no,no,no,yes,1,4,no,NA,yes,3,no,no,no,yes,NA,1,0,0,1,0,0,0,no,NA,no,NA,new
+149,20075,schun24@gmail.com,15,regular,yes,yes,NA,regular,NA,NA,yes,1,yes,45,46,yes,6,yes,2,2,no,no,no,yes,2,23,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+150,20075,Sophieelbrick@gmail.com,14,regular,yes,yes,NA,irregular,NA,NA,no,NA,yes,53,53,yes,5,yes,2,2,no,yes,yes,yes,1,9,no,NA,no,NA,no,no,no,yes,NA,1,0,1,0,0,1,0,yes,HRT - estradiol,no,NA,new
+151,20075,ordono7@hotmail.com,15.5,regular,yes,yes,NA,irregular,NA,NA,yes,2,yes,47,47,yes,2,yes,1,1,yes,yes,no,yes,1,12,no,NA,yes,2,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,yes,I took birth control pills from 18 to 25,new
+152,20075,itsallaboutperspective71@gmail.com,12,irregular,no,NA,no,NA,NA,NA,no,NA,yes,35,53,yes,5,yes,4,4,yes,no,yes,yes,1,8,NA,3,yes,2,no,no,no,yes,NA,1,0,0,1,1,0,0,no,NA,no,NA,new
+153,20076,terminallyoptimistic@hotmail.com,16,irregular,yes,yes,NA,irregular,NA,NA,no,NA,yes,42,42,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+154,20076,Z_marie@verizon.net,11,regular,yes,yes,NA,regular,NA,NA,yes,3,yes,43,44,yes,7,yes,1,1,yes,yes,no,yes,1,3,no,NA,no,NA,no,no,no,yes,NA,1,0,0,1,0,0,0,no,NA,no,NA,new
+155,20077,tjdunnederrell@gmail.com,12,regular,no,NA,no,NA,NA,NA,no,NA,yes,51,52,yes,1,yes,1,1,no,yes,no,yes,1,6,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,yes,"Estradiol patch since October 2023, still using.",new
+156,20077,lani.rosen@gmail.com,13,regular,yes,yes,NA,regular,NA,NA,yes,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,new
+157,20078,KathWhelan@msn.com,12,both,no,NA,yes,irregular,6,yes,yes,1,yes,40,54,yes,1,no,NA,0,no,no,no,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,1,0,0,0,0,0,no,NA,no,NA,new
+158,20080,Micheleonel1978@gmail.com,10,irregular,yes,yes,NA,irregular,NA,NA,yes,1,yes,44,46,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,new
+159,20083,jbambaata@gmail.com,9,regular,no,NA,no,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,new
+160,20084,tonyafaye@me.com,14,regular,no,NA,no,NA,NA,NA,yes,1,yes,47,47,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,0,1,1,0,0,0,no,NA,yes,"Combipatch, started last year (47)",new
+161,20086,becca34@gmail.com,13,regular,yes,yes,NA,irregular,NA,NA,no,NA,yes,45,46,yes,3,yes,1,1,no,no,no,yes,1,12,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,yes,36-40 yrs old. Hormonal medications for IVF.,new
+162,20086,Tobelizzie@aol.com,12,regular,yes,yes,NA,irregular,NA,NA,no,NA,yes,46,50,yes,1,yes,1,1,yes,no,no,yes,1,27,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+163,20087,Gengrossman@gmail.com,12,regular,yes,no,yes,irregular,6,NA,yes,1,yes,48,50,yes,3,yes,3,3,no,yes,no,yes,2,6,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+164,20087,Agardner545@gmail.com,12,irregular,yes,no,yes,irregular,5,no,yes,4,yes,40,46,yes,1,yes,1,1,no,no,no,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+165,20088,chantallenee@gmail.com,11,regular,yes,yes,yes,irregular,6,yes,no,NA,yes,52,54,yes,2,yes,2,2,no,yes,no,yes,2,26,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+166,20090,tbtvariety@gmail.com,NA,irregular,no,NA,yes,irregular,6,3,no,NA,yes,44,47,yes,2,yes,1,1,yes,yes,no,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,new
+167,20091,jessica@worldtowning.com,14,regular,yes,yes,NA,irregular,NA,NA,no,NA,yes,50,NA,yes,4,yes,2,2,no,no,no,yes,2,25,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,new
+168,20092,sarafisherheller@gmail.com,12,regular,yes,yes,NA,irregular,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,new
+169,20093,jenspiker54@gmail.com,12,both,no,NA,no,NA,NA,NA,no,NA,yes,46,50,yes,1,yes,1,1,no,no,no,yes,1,12,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+170,20093,Christinegross717@gmail.com,12,regular,no,NA,no,NA,NA,NA,no,NA,yes,50,53,yes,1,no,NA,0,no,no,no,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,new
+171,20093,Lauraklepaski76@gmail.com,13,regular,yes,yes,NA,irregular,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,new
+172,20094,sloppytricia@gmail.com,16,regular,yes,yes,NA,irregular,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,NA,new
+173,20096,msanchez121373@gmail.com,12,regular,yes,yes,NA,regular,NA,NA,no,NA,no,NA,NA,yes,8,yes,7,7,no,no,no,yes,5,6,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,new
+174,20096,Rubyangel42@hotmail.com,12,regular,yes,no,yes,irregular,6,NA,yes,4,yes,45,46,yes,3,yes,2,2,no,yes,no,yes,1,6,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+175,20097,Missjgwood@gmail.com,11,irregular,no,NA,yes,irregular,6,NA,yes,1,yes,35,40,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,yes,"supplements, Gleeful, for perimenopause symptoms.. 40yrs, taken for 3 months",new
+176,20098,Nelsaboyermadisson@gmail.com,11,regular,yes,yes,NA,irregular,NA,NA,no,NA,yes,48,50,yes,3,yes,2,2,yes,yes,yes,yes,2,12,no,NA,no,NA,no,no,no,yes,NA,1,0,1,0,0,0,0,no,NA,no,NA,new
+177,20100,Lauraeuber@gmail.com,15,regular,yes,yes,NA,regular,NA,NA,yes,4,yes,39,40,yes,3,yes,1,1,yes,yes,no,yes,1,6,no,NA,no,NA,no,no,no,yes,NA,1,0,1,1,0,0,0,no,NA,no,NA,new
+178,20101,Renee.ann.c@gmail.com,12,regular,yes,no,yes,regular,NA,NA,no,NA,yes,49,50,yes,1,yes,1,1,yes,yes,no,yes,1,14,no,NA,no,NA,yes,no,no,yes,NA,1,0,1,0,1,0,0,no,NA,no,NA,new
+179,20102,Rachel.aw.clark@gmail.com,13,regular,yes,yes,NA,regular,NA,NA,no,NA,yes,46,48,yes,1,no,NA,1,no,no,no,NA,NA,NA,NA,NA,NA,NA,no,no,no,yes,NA,1,0,1,0,0,0,0,no,NA,no,NA,new
+180,20102,Sjbodley@aol.com,13,regular,no,NA,no,NA,NA,NA,no,NA,yes,48,51,yes,6,yes,3,4,no,no,no,yes,4,24,no,NA,no,NA,no,no,yes,yes,3,1,0,1,1,0,0,0,no,NA,no,NA,new
+181,20102,cskroski46@gmail.com,13,regular,no,NA,no,NA,NA,NA,yes,1,yes,54,55,yes,4,yes,3,3,no,no,no,no,NA,NA,no,NA,yes,1,no,no,no,yes,NA,1,0,0,0,1,0,0,no,NA,no,NA,new
+182,20103,Mtooley328@yahoo.com,12,regular,yes,yes,NA,regular,NA,NA,no,NA,yes,44,45,yes,1,yes,1,1,no,no,no,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+183,20103,Jwvan0101@gmail.com,16,regular,no,NA,no,NA,NA,NA,no,NA,no,NA,NA,yes,4,yes,3,3,no,no,no,yes,3,12,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+184,20107,amylew2377@gmail.com,12,regular,yes,yes,NA,regular,NA,NA,NA,NA,yes,45,47,NA,NA,NA,NA,NA,NA,NA,NA,yes,2,6,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+185,20108,Vkatolik@yahoo.com,12,regular,no,NA,yes,irregular,6,3,no,NA,yes,49,51,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,yes,yes,yes,1,0,0,0,0,0,0,no,NA,no,NA,new
+186,20108,Moore.noni@gmail.com,13,regular,no,NA,yes,irregular,6,3,no,NA,yes,49,51,yes,5,yes,3,3,no,no,no,yes,3,12,no,NA,yes,1,no,no,no,yes,NA,1,0,0,1,0,0,0,no,NA,no,NA,new
+187,20109,Igy6001377@gmail.com,11,regular,yes,no,yes,irregular,5,NA,no,NA,yes,46,47,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,new
+188,20111,alma.martinez051223@aol.com,11,regular,no,NA,no,NA,NA,NA,no,NA,yes,42,52,NA,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,new
+189,20111,margaretjkornas@gmail.com,14,irregular,no,NA,no,NA,NA,NA,no,NA,yes,47,48,yes,4,yes,3,3,yes,yes,no,yes,3,22,no,NA,no,NA,no,no,no,yes,NA,1,0,1,0,0,0,0,no,NA,no,NA,new
+190,20112,lauracarberry99@gmail.com,12,regular,no,NA,no,NA,NA,NA,no,NA,yes,49,52,yes,8,yes,1,1,no,yes,no,yes,1,5,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,yes,36 to help get pregnant,new
+191,20114,aimeeallocco@yahoo.com,14,regular,yes,yes,NA,irregular,NA,NA,yes,1,yes,44,49,yes,1,yes,1,1,yes,no,no,yes,1,12,no,NA,no,NA,no,no,yes,yes,yes,1,0,0,0,0,0,0,no,NA,yes,estrogen and progesterone,new
+192,20114,psecreto221@gmail.com,12,regular,yes,no,yes,irregular,6,3,yes,4,yes,50,54,yes,2,yes,2,2,no,yes,no,yes,1,2,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,yes,53 estrogen cream,new
+193,20115,tina_chapman1234@yahoo.com,13,regular,no,NA,no,NA,NA,NA,no,NA,yes,54,54,yes,1,no,NA,0,no,no,no,no,NA,NA,no,NA,no,NA,no,no,yes,yes,3,1,0,1,1,0,0,0,no,NA,no,NA,new
+194,20118,Jmsampedro1@aol.com,16,irregular,yes,no,yes,irregular,6,yes,yes,2,yes,47,47,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,4,5,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+195,20119,Veronicaf31@gmail.com,14,irregular,no,NA,yes,irregular,6,3,yes,1,yes,48,48,yes,3,yes,2,2,no,no,no,no,NA,NA,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,new
+196,20122,anniespiers@gmail.com,14,regular,no,NA,yes,irregular,5,NA,no,NA,yes,46,48,yes,3,no,3,3,no,no,no,yes,1,1,no,NA,yes,1,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+197,20123,Ladonna1265@yahoo.com,17,regular,yes,yes,NA,irregular,NA,NA,yes,3,yes,45,47,yes,5,yes,4,4,yes,yes,no,yes,4,25,no,NA,NA,NA,no,no,yes,yes,NA,1,1,0,0,0,0,0,no,NA,yes,I don't remember i started birth control right after my first child was born 1998. I have been on and off since then,new
+198,20126,imjennay@gmail.com,10,regular,no,NA,yes,irregular,3,3,yes,NA,no,NA,NA,yes,3,yes,1,1,no,no,no,yes,1,23,yes,3,no,NA,no,yes,no,yes,NA,1,1,0,1,0,0,0,yes,estradiol patch and progesterone pill 100mg,yes,synthroid medication in my 20's,new
+199,20129,Watson.Amanda.N79@gmail.com,11,irregular,no,NA,NA,NA,NA,yes,yes,2,no,NA,NA,yes,2,yes,2,NA,yes,yes,yes,yes,2,18,no,NA,yes,2,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+200,20130,kito.shani@gmail.com,11,regular,no,NA,no,NA,NA,NA,no,NA,yes,47,51,yes,7,yes,4,4,yes,yes,no,yes,4,24,no,NA,yes,1,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,yes,Levothyroxine started and stopped at 51. Took for hyperthyroid and menopausal symptoms,new
+201,20131,nemracelbon@gmail.com,12,regular,yes,yes,NA,irregular,NA,NA,no,NA,yes,45,53,yes,3,yes,3,NA,no,no,no,yes,1,6,no,NA,yes,1,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,new
+202,20139,soniapiura@gmail.com,15,regular,yes,no,yes,irregular,6,3,no,NA,no,NA,NA,yes,5,no,0,1,no,no,no,yes,1,8,no,NA,no,NA,no,no,yes,yes,yes,1,0,0,0,0,0,0,yes,Simpesse,no,NA,new
+203,20143,Ymercedes6y.m@gmail.com,13,regular,no,NA,no,NA,NA,NA,no,NA,yes,40,46,yes,4,no,NA,2,yes,yes,yes,yes,2,12,no,NA,yes,2,no,no,no,yes,NA,1,0,0,0,1,0,0,no,NA,no,NA,new
+204,20145,dundun116@gmail.com,11,regular,yes,yes,NA,regular,NA,NA,no,NA,yes,39,44,no,NA,NA,NA,NA,NA,NA,NA,yes,5,6,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,yes,depro vera all I did was bleed instead of not stop taking it my period took 3.months to go back to normal birth control to much weight gain would forget to take,new
+205,20145,lorrislyrics2002@yahoo.com,13,regular,yes,yes,NA,regular,NA,NA,no,NA,yes,35,51,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,yes,1,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+206,20145,heather.connolly@anthem.com,12,regular,no,NA,no,NA,NA,NA,no,NA,yes,47,50,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,1,0,0,yes,Estradiol patch  Micronized progesterone,no,NA,new
+207,20145,karensiegella@gmail.com,13,both,yes,no,yes,irregular,6,NA,no,NA,no,NA,NA,yes,3,yes,2,2,no,no,no,yes,2,28,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+208,20145,cleosss@yahoo.com,14,regular,yes,no,yes,irregular,6,3,yes,NA,yes,45,46,yes,1,no,NA,0,no,no,no,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,0,0,1,1,1,0,no,NA,no,NA,new
+209,20145,julissatorres464@gmail.com,15,regular,yes,yes,NA,irregular,NA,NA,no,NA,yes,49,50,yes,8,yes,7,7,no,no,no,yes,1,2,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,new
+210,20145,mildred.triana@gmail.com,12,regular,yes,yes,NA,irregular,NA,NA,no,NA,yes,40,42,yes,5,yes,1,1,no,yes,no,yes,1,3,no,NA,no,NA,no,no,no,yes,NA,1,0,0,1,1,0,0,no,NA,no,NA,new
+211,20145,meltrxyz@gmail.com,10,irregular,no,NA,no,NA,NA,NA,yes,1,yes,54,55,yes,5,yes,1,1,yes,yes,no,yes,1,1,no,NA,no,NA,no,no,no,yes,NA,1,1,0,0,0,0,0,no,NA,yes,fertility drugs,new
+212,20145,ernestine28@yahoo.com,12,regular,no,NA,no,NA,NA,NA,no,NA,yes,50,49,yes,8,yes,2,2,no,no,no,yes,2,12,no,NA,yes,NA,no,no,no,yes,NA,1,0,1,0,0,0,0,no,NA,no,NA,new
+213,20145,Laumur811@gmail.com,10,regular,no,NA,no,NA,NA,NA,no,NA,yes,38,41,yes,6,no,3,3,no,yes,no,yes,3,22,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+214,20146,meganmcmanus9@gmail.com,15,regular,yes,yes,NA,regular,NA,NA,yes,1,yes,35,48,yes,1,no,NA,0,no,no,no,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,1,0,yes,Estradiol Patch: 0.075 mg per day  Progesterone: 100 mg per day  Both are bio identical,no,NA,new
+215,20148,Foran.rachel.a@gmail.com,14,regular,no,NA,no,NA,NA,NA,no,NA,yes,44,50,yes,1,no,NA,0,yes,no,no,no,NA,NA,NA,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,yes,Estrogen and Progesterone,yes,"In addition to estrogen and progesterone, I tried testosterone cream for one month, then stopped taking it",new
+216,20148,Shellee82@live.com,11,regular,no,NA,yes,irregular,6,3,no,NA,yes,48,49,yes,2,yes,1,1,no,no,no,yes,1,2,no,NA,no,NA,no,no,yes,yes,3,1,0,1,0,1,0,0,no,NA,no,NA,new
+217,20149,cortneyhanna78@gmail.com,12,regular,yes,yes,NA,irregular,NA,NA,yes,4,yes,35,40,no,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,yes,Thyroid hormones,yes,Thyroid hormones since 2013,new
+218,20152,bouknightfelicia75@gmail.com,14,both,no,NA,no,NA,NA,NA,no,NA,yes,47,49,yes,5,no,NA,3,yes,yes,yes,yes,1,3,no,NA,no,NA,no,no,no,yes,NA,1,0,0,1,0,0,0,no,NA,no,NA,new
+219,20155,cmp1993@verizon.net,12,regular,no,NA,no,NA,NA,NA,no,NA,yes,50,54,yes,4,yes,3,3,no,no,no,yes,3,12,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+220,20156,mackenziemari@gmail.com,11,regular,yes,no,yes,irregular,6,yes,no,NA,yes,43,46,yes,3,no,NA,0,yes,yes,yes,no,NA,NA,no,NA,no,NA,no,no,no,yes,NA,0,0,0,1,1,0,0,no,NA,no,NA,new
+221,20157,lauren.m.petrucci@gmail.com,13,regular,yes,yes,NA,regular,NA,NA,no,NA,yes,40,40,yes,3,yes,1,1,no,yes,yes,yes,1,6,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,no,NA,no,NA,new
+222,20158,trinamarieashton@gmail.com,14,regular,no,NA,no,NA,NA,NA,no,NA,yes,46,50,yes,2,yes,2,2,yes,no,no,yes,2,3,no,NA,no,NA,no,no,no,no,NA,0,0,0,0,0,0,0,no,NA,no,NA,new
+223,20158,Jayoyola@gmail.com,12,irregular,yes,no,yes,irregular,6,yes,yes,1,yes,40,47,yes,2,yes,1,1,no,no,no,yes,1,1,no,NA,no,NA,no,no,no,yes,NA,1,0,0,1,0,0,0,no,NA,no,NA,new
+224,20163,tiffanihillin@gmail.com,14,regular,yes,yes,NA,irregular,NA,NA,no,NA,yes,35,45,yes,3,yes,1,1,no,no,no,yes,1,6,no,NA,no,NA,no,no,no,yes,NA,1,0,0,0,0,0,0,yes,pregenalone,no,NA,new
