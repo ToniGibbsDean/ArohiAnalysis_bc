@@ -1,6 +1,6 @@
 library(tidyverse)
 
-df <- read_csv("../MAP_POSTSCREEN/Outputs/joinedCorrected_RHQ_dfELIGIBLEONLY.csv")
+df <- read_csv("Outputs/joinedCorrected_RHQ_dfELIGIBLEONLY.csv")
 
 
 # Convert and clean variables
@@ -40,6 +40,11 @@ df_clean <- df %>%
     prenatal_depression = recode_factor(as.character(prenatal_depression), `0` = "no", `1` = "yes", `2` = NA_character_),
     postpartum_depression = recode_factor(as.character(postpartum_depression), `0` = "no", `1` = "yes", `2` = NA_character_),
     postpartum_psychosis = recode_factor(as.character(postpartum_psychosis), `0` = "no", `1` = "yes", `2` = NA_character_),
+    symptoms_bc = recode_factor(as.character(symptoms_bc), '0' = "no", '1' = "yes", '2' = NA_character_),
+  ) %>%
+    
+  # Batch 5
+  mutate(
     breastfed_any = recode_factor(as.character(breastfed_any), `0` = "no", `1` = "yes", `2` = NA_character_),
     breastfed_child_count = as.numeric(breastfed_child_count),
     breastfeeding_total_months = as.numeric(breastfeeding_total_months)

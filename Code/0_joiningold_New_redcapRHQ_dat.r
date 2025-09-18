@@ -6,22 +6,34 @@ library(tidyverse)
 # 1)  initial data loading ---------------------------------------------------------------
 #new data 
 # load and remove records without names or times as failed data collections
-n_post<-read.csv("Data/PREMAPIntegration-RHQ_DATA_2025-06-11_1722.csv") %>% 
+n_post<-read.csv("Data/PREMAPIntegration-RHQPQB_DATA_2025-09-18_1313.csv") %>%  # nolint
     as_tibble #%>% 
    # filter(timestamp!="" & lastname!="") 
 # old data
 # remove those without a name, all lack other data and are marked as tests or failed data entries
-o_post<-read.csv("Data/OLDPREMAPPreScreenin-RHQ_DATA_2025-06-11_1719.csv") %>% 
+o_post<-read.csv("Data/OLDPREMAPPreScreenin-RHQPQB_DATA_2025-09-18_1341.csv") %>%  # nolint
     as_tibble %>%
     filter(pscreen_name!="")
 
-
+# 1.5) calculate pqb_symptom and pqb_concern for old data
+o_post <- o_post %>%
+  mutate(pqb_symptom = 
+  rowSums(
+      select(., pscreen_pqb1:pscreen_pqb21),  # select the columns to sum
+      na.rm = TRUE  # ignores NAs so missing values don’t break the sum
+    )
+  ) %>%
+  mutate(pqb_concern = 
+  rowSums(
+    select(., pscreen_pqb1_yes:pscreen_pqb21_yes),
+    na.rm = TRUE
+  ))
 # 2) remove incorrect old data from new data frae ---------------------------------------------
 # filter out everthing from before the new dataset - these were merged in an error-prone way
 # this also removes 4 rows that do not have prescreendate values, but all have timestamp values 
 #showing they are from the old dataset
 n<-n_post %>%
-    mutate(prescreendate=as_date(prescreendate))%>% 
+    mutate(prescreendate=as_date(prescreendate))%>%  # nolint
     filter(!(prescreendate < "2024-11-12") |is.na(prescreendate)) %>%
     arrange(prescreendate)
 
@@ -148,7 +160,10 @@ cols <- c(
   "repro84",
   "repro85",
   "repro86",
-  "repro87"
+  "repro87",
+  "repro88",
+  "pqb_symptom",
+  "pqb_concern",
   # "repro88",
   # "repro89___1",
   # "repro90",
@@ -180,7 +195,7 @@ n_selected <- n %>%
 attach(o)
 o_reformatted <- o %>%
   transmute(
-  "prescreendate" = pscreen_date,
+  "prescreendate" = pscreen_date, # nolint
   "email" = pscreen_email,
     repro1 = repro1,
     repro2 = repro_c2,
@@ -274,7 +289,9 @@ o_reformatted <- o %>%
     repro85 = repro_hormonmedstype,
     repro86 = repro_hormonmeds3,
     repro87 = repro_hormonmeds4,
-    #repro88 = repro14,
+    repro88 = repro14,
+    pqb_symptom = pqb_symptom,
+    pqb_concern = pqb_concern,
     #repro89 = NA,#mother,
     #repro90 = repro_mothersdep,
     #repro91 = repro_motherppd,
@@ -343,7 +360,10 @@ repro_name_map <- c(
   repro84 = "hormone_med_current",
   repro85 = "hormone_med_current_type",
   repro86 = "hormone_med_ever",
-  repro87 = "hormone_med_ever_details"
+  repro87 = "hormone_med_ever_details",
+  repro88 = "symptoms_bc",
+  pqb_symptom = "pqb_symptom",
+  pqb_concern = "pqb_concern"
 )
 
 # Use rename_with to match and replace based on the mapping
@@ -367,8 +387,7 @@ cleaned_df <- new_df_renamed %>%
 
 write.csv(cleaned_df, "Outputs/joinedCorrected_RHQ_dfELIGIBLEONLY.csv")
 saveRDS(cleaned_df, "Outputs/joinedCorrected_RHQ_dfELIGIBLEONLY.rds")
-
-
 #write.csv(new_df_renamed, "Outputs/joinedCorrected_RHQ_df.csv")
 #saveRDS(new_df_renamed, "Outputs/joinedCorrected_RHQ_df.rds")
 
+length(repro_name_map)
