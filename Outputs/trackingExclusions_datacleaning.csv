@@ -1,0 +1,6 @@
+"","Step","RowsRemaining","RowsRemoved"
+"1","Original",1869,0
+"2","!is.na(lastperiod_daysSince)",1622,247
+"3","lastperiod_daysSince >= 0 & lastperiod_daysSince <= 20000",1603,19
+"4","age > 0 & !is.na(age)",1581,22
+"5","lastperiod_daysSince >= 0 & lastperiod_daysSince <= 20000",1581,0

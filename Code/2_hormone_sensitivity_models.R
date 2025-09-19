@@ -7,10 +7,11 @@ library(MuMIn)
 library(tidyverse)
 library(GGally)
 #
-merged_df <- read.csv("Data/hormone_sensitivity_asd_09152025.csv")
-
+df <- read.csv("Outputs/summarydf.csv")
+merged_df <- df  %>%
+  filter(ever_pregnant == 1)
 #DATA FRAME should read from the data frame PRODUCED FROM "2_HORMONESENSITIVITY_CALCULATION_DATAFRAME"
-#nrow(merged_df)
+nrow(merged_df)
 
 # Testing distribution of both hormone_sensitivity and PQB scores
 ggplot(merged_df, aes(x = hormone_sensitivity)) +
@@ -54,14 +55,22 @@ mod_df<-df_gamma %>%
         pqb_symptom,
         age,
         moodDXyesNo,
-        birth_control,
+        bc_type,
+        bc_exposure,
         lastperiod_daysSince) %>%
     filter(!is.na(age)) %>%
   mutate(record_id = as.factor(record_id)) %>% 
-  mutate(birth_control = as.factor(birth_control)) %>%
+  mutate(bc_type = as.factor(bc_type)) %>%
   mutate(moodDXyesNo = as.factor(moodDXyesNo)) 
 
-   x<-ggpairs(mod_df) #remove IDs to make work
+mod_df %>%
+  summarise(
+    hormone_sensitivity_NA = sum(is.na(hormone_sensitivity)),
+    bc_type_NA            = sum(is.na(bc_type)),
+    bc_exposure_NA = sum(is.na(bc_exposure))
+  )
+
+x <- ggpairs(mod_df %>% select(-record_id))
 
    ### issue - 2 record IDs have 2 rows each
    records<-list(569,1174)
@@ -70,12 +79,13 @@ mod_df<-df_gamma %>%
 ###### create object that has all models
 formulas <- list(
   null = pqb_symptom ~ 1,
-  noInt = pqb_symptom ~ hormone_sensitivity + age + moodDXyesNo + birth_control + lastperiod_daysSince,
-  age = pqb_symptom ~ hormone_sensitivity + age*lastperiod_daysSince + moodDXyesNo + birth_control,
-  sensXbc = pqb_symptom ~ hormone_sensitivity*birth_control + age + moodDXyesNo + lastperiod_daysSince,
-  sexXmood = pqb_symptom ~ hormone_sensitivity*moodDXyesNo + age + birth_control + lastperiod_daysSince,
+  noInt = pqb_symptom ~ hormone_sensitivity + age + moodDXyesNo + bc_type + lastperiod_daysSince,
+  age = pqb_symptom ~ hormone_sensitivity + age*lastperiod_daysSince + moodDXyesNo + bc_type,
+  sensXbc = pqb_symptom ~ hormone_sensitivity*bc_type + age + moodDXyesNo + lastperiod_daysSince,
+  sexXmood = pqb_symptom ~ hormone_sensitivity*moodDXyesNo + age + bc_type + lastperiod_daysSince,
  #bcXtype = pqb_symptom ~ hormone_sensitivity + moodDXyesNo + age + birth_control*type + lastperiod_daysSince,
- sensXlastperiod = pqb_symptom ~ hormone_sensitivity*lastperiod_daysSince + moodDXyesNo + age + birth_control)
+ sensXlastperiod = pqb_symptom ~ hormone_sensitivity*lastperiod_daysSince + moodDXyesNo + age + bc_type,
+ bc_and_exp = pqb_symptom ~ hormone_sensitivity*bc_exposure + bc_type)
 
 # Testing GLM with Gaussian and Gamma distributions
 # --- Define your models for both families ---
