@@ -23,17 +23,11 @@ cols_repro <- c(
 "repro90","repro91","repro92","repro94","repro95","reproductive_history_questionnaire_complete"
 )
 df <- df %>%
-  mutate(pqb_symptom = 
-  rowSums(
-      select(., pqb1:pqb21),  # select the columns to sum
-      na.rm = TRUE  # ignores NAs so missing values don’t break the sum
-    )
-  ) %>%
-  mutate(pqb_concern = 
-  rowSums(
-    select(., pqb1_yes:pqb21_yes),
-    na.rm = TRUE
-  ))
+  mutate(
+    pqb_symptom = rowSums(select(., all_of(paste0("pqb", 1:21))), na.rm = TRUE),
+    pqb_concern = rowSums(select(., all_of(paste0("pqb", 1:21, "_yes"))), na.rm = TRUE)
+  )
+
 
 df %>%
   select(pqb_symptom, pqb_concern) %>%

@@ -1,0 +1,22 @@
+library(ggplot2)
+
+p <- ggplot(mod_df, aes(x = hormone_sensitivity, y = pqb_symptom)) +
+  geom_point(color = "blue", alpha = 0.6) +     # scatter points
+  geom_smooth(method = "lm", color = "red") +   # regression line
+  labs(
+    x = "Hormone Sensitivity",
+    y = "PQB Symptom Score",
+    title = "Scatterplot of Hormone Sensitivity vs PQB Symptom"
+  ) +
+  theme_minimal()
+ggsave("pqbsymxhorm_sens.png", plot = p, width = 6, height = 4)
+p <- ggplot(mod_df, aes(x = bc_exposure, y = pqb_symptom)) +
+  geom_point(color = "blue", alpha = 0.6) +     # scatter points
+  geom_smooth(method = "lm", color = "red") +   # regression line
+  labs(
+    x = "BC Exposure",
+    y = "PQB Symptom Score",
+    title = "Scatterplot of BC Exposure vs PQB Symptom"
+  ) +
+  theme_minimal()
+ggsave("pqbsymxbc.png", plot = p, width = 6, height = 4)
