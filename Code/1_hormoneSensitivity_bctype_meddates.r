@@ -177,6 +177,8 @@ summarydf <- datcl_filtered %>%
     age_weeks, 
     zipcode,
     lastperiod_daysSince,
+    cycle_regular_lifetime,
+    cycle_regular_now,
     ever_pregnant,
     menopausalStatus,
     pqb_symptom,

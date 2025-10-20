@@ -10,7 +10,8 @@ library(GGally)
 df <- read.csv("Outputs/summarydf.csv")
 merged_df <- df  %>%
   filter(ever_pregnant == 1) %>%
-  filter(!is.na(bc_exposure))
+  filter(!is.na(bc_exposure)) %>%
+  filter(cycle_regular_lifetime != 0)
 
 #DATA FRAME should read from the data frame PRODUCED FROM "2_HORMONESENSITIVITY_CALCULATION_DATAFRAME"
 nrow(merged_df)
@@ -123,7 +124,7 @@ mod_df %>%
 x <- ggpairs(mod_df %>% select(-record_id))
 
    ### issue - 2 record IDs have 2 rows each
-   records<-list(569,1174)
+   records <-list(569,1174)
    mod_df  %>% filter(record_id %in% records)
 
 ###### create object that has all models
@@ -135,8 +136,10 @@ formulas <- list(
   sexXmood = pqb_symptom ~ hormone_sensitivity*moodDXyesNo + age + bc_lifetime + lastperiod_daysSince,
  #bcXtype = pqb_symptom ~ hormone_sensitivity + moodDXyesNo + age + birth_control*type + lastperiod_daysSince,
  sensXlastperiod = pqb_symptom ~ hormone_sensitivity*lastperiod_daysSince + moodDXyesNo + age + bc_lifetime,
- bc_and_exp = pqb_symptom ~ hormone_sensitivity+bc_exposure,
- bc_int_exp = pqb_symptom ~ hormone_sensitivity*bc_exposure,
+ bc_and_hs = pqb_symptom ~ hormone_sensitivity+bc_exposure,
+ bc_int_hs = pqb_symptom ~ hormone_sensitivity*bc_exposure,
+ hs_mooddx = pqb_symptom ~ hormone_sensitivity+moodDXyesNo,
+ #concern_hs_mood = pqb_concern ~ hormone_sensitivity+bc_exposure+moodDXyesNo,
  bc_and_exp_moodDx = pqb_symptom ~ hormone_sensitivity*moodDXyesNo+bc_exposure)
 # Testing GLM with Gaussian and Gamma distributions
 # --- Define your models for both families ---
@@ -171,4 +174,11 @@ aicc_df <- data.frame(
 )
 print(aicc_df)
   
-  
+library("ggpubr")
+ggscatter(summarydf, x = "hormone_sensitivity", y = "pqb_symptom", 
+          add = "reg.line", conf.int = TRUE, 
+          cor.coef = TRUE, cor.method = "spearman",
+          xlab = "Horm Sens", ylab = "PQB Symptom")
+
+res <- cor.test(summarydf$pqb_symptom, summarydf$hormone_sensitivity, method = "spearman")
+res
